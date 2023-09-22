@@ -1,5 +1,5 @@
 # crabs2pm
-Introduction:
+Introduction: Crabs is a kids computer game where a captain tries to catch a crab.
 
 Function: getCapt: number -> matrix <br>
 Purpose: This function generates a matrix representation of the Captain character at the origin with zero heading. <br>
